@@ -1,14 +1,18 @@
 # starling-old-preserved
 
-Static preservation of selected pages from [starlinglab.org](https://www.starlinglab.org), captured March 2026. Each page is flattened into a self-contained directory with a simple `assets/{css,js,fonts,img}/` structure, ready to re-host on any static server.
+Starling Lab is transitioning to a new website. Rather than migrate the old WordPress instance, we are preserving a set of case studies and project pages as standalone static sites so that their URLs and any existing citations remain intact.
+
+The pages below represent work that lives at specific, potentially-cited URLs. Moving them into a new WordPress instance turned out to be more effort than it was worth, so we repackaged them in their original visual style as self-contained static bundles — no server-side dependencies, no database, no plugin maintenance.
+
+Each bundle is a flat directory with a simple `assets/{css,js,fonts,img}/` structure, ready to drop onto any static host at the same path.
 
 ## Preserved pages
 
 | Directory | Original URL |
 |-----------|-------------|
-| `anita/` | https://www.starlinglab.org/anita/ |
-| `what-to-get-right-first/` | https://www.starlinglab.org/what-to-get-right-first/ |
-| `78days/` | https://www.starlinglab.org/78days/ (14 pages — see below) |
+| `anita/` | [starlinglab.org/anita/](https://www.starlinglab.org/anita/) |
+| `what-to-get-right-first/` | [starlinglab.org/what-to-get-right-first/](https://www.starlinglab.org/what-to-get-right-first/) |
+| `78days/` | [starlinglab.org/78days/](https://www.starlinglab.org/78days/) (14 pages — see below) |
 
 ### 78days page tree
 
