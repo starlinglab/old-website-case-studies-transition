@@ -1,4 +1,4 @@
-# starling-old-preserved
+# Preserving old Starling case studies
 
 Starling Lab is transitioning to a new website. Rather than migrate the old WordPress instance, we are preserving a set of case studies and project pages as standalone static sites so that their URLs and any existing citations remain intact.
 
