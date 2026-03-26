@@ -6,6 +6,14 @@ The pages below represent work that lives at specific, potentially-cited URLs. M
 
 Each bundle is a flat directory with a simple `assets/{css,js,fonts,img}/` structure, ready to drop onto any static host at the same path.
 
+## URL mapping
+
+| Old URL | New URL |
+|---------|---------|
+| https://www.starlinglab.org/anita/ | https://starlinglabstg.wpenginepowered.com/wp-content/uploads/anita/ |
+| https://www.starlinglab.org/what-to-get-right-first/ | https://starlinglabstg.wpenginepowered.com/wp-content/uploads/what-to-get-right-first/ |
+| https://www.starlinglab.org/78days/ | https://starlinglabstg.wpenginepowered.com/wp-content/uploads/78days/ |
+
 ## Preserved pages
 
 | Directory | Original URL |
